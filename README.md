@@ -9,6 +9,7 @@ Project Goals
 	•	Evaluate performance with classification metrics and confusion matrix
 	•	Identify the most influential features
 	•	Provide business insights based on results
+ 
 ⸻⸻
 
  Dataset Overview
@@ -16,6 +17,7 @@ Project Goals
 	•	Target Variable: Response
 	•	Important Features: Age, Vehicle_Damage, Annual_Premium, Vintage
 	•	Data Source: Kaggle – Health Insurance Cross Sell Prediction
+ 
 ⸻⸻
 
 Exploratory Data Analysis (EDA)
@@ -36,6 +38,7 @@ Customers with a history of vehicle damage tend to respond more positively.
   <img src="Health Insurance/visuals/class_distribution.png" width="400"/>  
   <img src="Health Insurance/visuals/ageresponse_boxplot.png" width="400"/>
 </p>
+
 ⸻⸻
 
 Model
@@ -43,6 +46,7 @@ Model
 	•	Scaler: StandardScaler
 	•	Train-Test Split: 80/20
 	•	Evaluation Metrics: Accuracy, Precision, Recall, F1-score
+ 
 ⸻⸻
 
 Classification Report (Sample):
@@ -57,6 +61,7 @@ The model performs well on the majority class but struggles with recall on the m
 <p align="center">
   <img src="Health Insurance/visuals/confusion_matrix.png" width="400"/>
 </p>
+
 ⸻⸻
 
 Feature Importance

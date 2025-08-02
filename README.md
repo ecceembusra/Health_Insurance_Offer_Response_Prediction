@@ -31,8 +31,8 @@ Vehicle Damage Effect:
 Customers with a history of vehicle damage tend to respond more positively.
 
 <p align="center">
-  <img src="visuals/class_distribution.png" width="400"/>  
-  <img src="visuals/age_boxplot.png" width="400"/>
+  <img src="Health Insurance/visuals/class_distribution.png" width="400"/>  
+  <img src="Health Insurance/visuals/age_boxplot.png" width="400"/>
 </p>
 
 Model
@@ -51,7 +51,7 @@ F1-score	0.93	0.18
 The model performs well on the majority class but struggles with recall on the minority class due to dataset imbalance.
 
 <p align="center">
-  <img src="visuals/confusion_matrix.png" width="400"/>
+  <img src="Health Insurance/visuals/confusion_matrix.png" width="400"/>
 </p>
 
 Feature Importance
@@ -63,5 +63,5 @@ Top features contributing to model decisions:
 	•	Vehicle_Damage
 
 <p align="center">
-  <img src="visuals/feature_importance.png" width="400"/>
+  <img src="Health Insurance/visuals/feature_importance.png" width="400"/>
 </p>

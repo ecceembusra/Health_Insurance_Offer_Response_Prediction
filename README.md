@@ -32,7 +32,7 @@ Customers with a history of vehicle damage tend to respond more positively.
 
 <p align="center">
   <img src="Health Insurance/visuals/class_distribution.png" width="400"/>  
-  <img src="Health Insurance/visuals/age_boxplot.png" width="400"/>
+  <img src="Health Insurance/visuals/ageresponse_boxplot.png" width="400"/>
 </p>
 
 Model

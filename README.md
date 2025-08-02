@@ -42,6 +42,7 @@ Customers with a history of vehicle damage tend to respond more positively.
 ⸻⸻
 
 Model
+
 	•	Model Used: RandomForestClassifier
 	•	Scaler: StandardScaler
 	•	Train-Test Split: 80/20
